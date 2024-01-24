@@ -2,13 +2,8 @@
 👨‍⚖️MARIADB É UM SISTEMA DE GERENCIAMENTO DE BANCO DE DADOS RELACIONAL DE CÓDIGO ABERTO, DERIVADO DO MYSQL.
 
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
-[![GitHub Repo stars](https://img.shields.io/badge/VEJA%20OS-VIDEOS-03A9F4?logo=youtube)](https://www.youtube.com/@vilhalva100/search?query=MARIADB)
 [![GitHub Repo stars](https://img.shields.io/badge/VEJA-DOCUMENTAÇÃO-03A9F4?logo=google)](https://mariadb.com/kb/en/documentation/)
 <br>
-
-<img src="https://d1.awsstatic.com/logos/partners/MariaDB_Logo.d8a208f0a889a8f0f0551b8391a065ea79c54f3a.png" align="center" width="280"> <br>
-
-![](https://i.imgur.com/waxVImv.png)
 
 # 💝CONCEITO:
 O MariaDB é um sistema de gerenciamento de banco de dados relacional (RDBMS) de código aberto que é uma bifurcação (fork) do MySQL. Ele foi criado por Michael "Monty" Widenius, um dos desenvolvedores originais do MySQL, como uma alternativa ao MySQL devido a preocupações sobre a direção do projeto após a aquisição pela Oracle Corporation. O MariaDB mantém alta compatibilidade com o MySQL, o que significa que a maioria dos aplicativos e comandos SQL projetados para o MySQL pode ser usada no MariaDB com poucas ou nenhuma modificação.
