@@ -1,11 +1,9 @@
 # CURSO DE MARIADB
 👨‍⚖️MARIADB É UM SISTEMA DE GERENCIAMENTO DE BANCO DE DADOS RELACIONAL DE CÓDIGO ABERTO, DERIVADO DO MYSQL.
 
-[![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
-[![GitHub Repo stars](https://img.shields.io/badge/VEJA-DOCUMENTAÇÃO-03A9F4?logo=google)](https://mariadb.com/kb/en/documentation/)
-<br>
+<img src="FOTO.png" align="center" width="400"> <br>
 
-# 💝CONCEITO:
+## CONCEITO:
 O MariaDB é um sistema de gerenciamento de banco de dados relacional (RDBMS) de código aberto que é uma bifurcação (fork) do MySQL. Ele foi criado por Michael "Monty" Widenius, um dos desenvolvedores originais do MySQL, como uma alternativa ao MySQL devido a preocupações sobre a direção do projeto após a aquisição pela Oracle Corporation. O MariaDB mantém alta compatibilidade com o MySQL, o que significa que a maioria dos aplicativos e comandos SQL projetados para o MySQL pode ser usada no MariaDB com poucas ou nenhuma modificação.
 
 Algumas das principais características e conceitos do MariaDB incluem:
@@ -22,7 +20,24 @@ Algumas das principais características e conceitos do MariaDB incluem:
 
 6. **Suporte Comercial**: Além da versão de código aberto, existem fornecedores que oferecem suporte comercial para o MariaDB, se necessário.
 
-# 🔨 MARIADB != MYSQL:
+## SUA HISTÓRIA:
+1. **Origens (2009)**:
+   - MariaDB foi criado por Michael "Monty" Widenius, o mesmo desenvolvedor por trás do MySQL. Ele decidiu criar o MariaDB após se preocupar com a direção futura do MySQL, especialmente após a aquisição da MySQL AB pela Oracle Corporation.
+   - O nome "MariaDB" é uma combinação do nome da filha de Monty, Maria, e "DB", abreviação para banco de dados.
+
+2. **Fork do MySQL (2009)**:
+   - Em 2009, a Sun Microsystems, que adquiriu a MySQL AB em 2008, foi adquirida pela Oracle Corporation. Monty e outros desenvolvedores ficaram preocupados com o futuro do MySQL sob a gestão da Oracle, devido a preocupações com a comunidade de código aberto e a política de licenciamento.
+   - Como resultado, Monty decidiu criar um fork do MySQL, chamado MariaDB, para garantir a continuidade do desenvolvimento do MySQL como um projeto de código aberto independente.
+
+3. **Lançamento Público (2010)**:
+   - O MariaDB foi lançado publicamente em 2010, com a versão 5.1 como a primeira versão estável.
+   - Ele foi disponibilizado sob os termos da GNU General Public License (GPL), mantendo seu compromisso com o código aberto e a comunidade de desenvolvedores.
+
+4. **Evolução e Versões**:
+   - O MariaDB continua a ser desenvolvido ativamente, com lançamentos regulares que trazem novos recursos, melhorias de desempenho e correções de bugs.
+   - Algumas das versões mais significativas incluem o MariaDB 10.0 (2014), que introduziu o sistema de armazenamento ColumnStore, e o MariaDB 10.5 (2020), que trouxe várias melhorias de desempenho e recursos avançados.
+
+## MARIADB != MYSQL:
 MariaDB e MySQL são sistemas de gerenciamento de banco de dados relacionais (RDBMS) que têm uma história compartilhada, mas também apresentam diferenças significativas. Aqui estão algumas das principais diferenças entre MariaDB e MySQL:
 
 1. **Origem e Desenvolvimento**:
@@ -50,9 +65,8 @@ MariaDB e MySQL são sistemas de gerenciamento de banco de dados relacionais (RD
 
 Em resumo, a escolha entre MariaDB e MySQL depende das necessidades específicas do seu projeto e das preocupações com a licença. Se você já está familiarizado com o MySQL, a transição para o MariaDB deve ser relativamente suave, já que eles são altamente compatíveis. Certifique-se de considerar as políticas de licenciamento e a compatibilidade com aplicativos existentes ao tomar sua decisão.
 
-# 💚CARACTERISTICAS:
-### Características Positivas:
-
+## CARACTERISTICAS:
+### POSITIVAS:
 1. **Compatibilidade com MySQL:** O MariaDB é altamente compatível com o MySQL, o que facilita a migração de aplicativos e bancos de dados existentes do MySQL para o MariaDB. A maioria dos comandos e aplicativos MySQL funcionará sem modificações significativas.
 
 2. **Código Aberto:** O MariaDB é uma solução de código aberto, o que significa que seu código-fonte é acessível ao público e pode ser usado, modificado e distribuído livremente. Isso permite que a comunidade de desenvolvedores colabore na melhoria contínua do sistema.
@@ -65,8 +79,7 @@ Em resumo, a escolha entre MariaDB e MySQL depende das necessidades específicas
 
 6. **Licença de Código Aberto:** A licença de código aberto (GPL) do MariaDB é atraente para organizações que desejam evitar preocupações de licenciamento e custos associados.
 
-### Características Negativas:
-
+### NEGATIVAS:
 1. **Suporte Comercial:** Embora existam opções de suporte comercial para o MariaDB, algumas organizações podem preferir o suporte oferecido pela Oracle para o MySQL. A escolha entre suporte comercial pode ser uma consideração importante.
 
 2. **Documentação Variável:** A documentação e recursos de treinamento disponíveis para o MariaDB podem ser menos extensos em comparação com o MySQL, devido à popularidade histórica do MySQL. Isso pode tornar o aprendizado e a solução de problemas um pouco mais desafiadores.
@@ -74,3 +87,8 @@ Em resumo, a escolha entre MariaDB e MySQL depende das necessidades específicas
 3. **Plugins e Extensões:** Alguns plugins e extensões criados para o MySQL podem não ser diretamente compatíveis com o MariaDB, o que pode exigir adaptações ou modificações para uso no MariaDB.
 
 4. **Dificuldades de Migração em Casos Raros:** Embora a compatibilidade geral seja alta, pode haver situações excepcionais em que a migração do MySQL para o MariaDB pode exigir esforço adicional devido a diferenças na implementação ou recursos específicos.
+
+## SUBSIDIOS:
+- [CURSO CRIADO PELO VILHALVA](https://github.com/VILHALVA)
+- [VEJA A DOCUMENTAÇÃO](https://mariadb.com/kb/en/documentation/)
+- [VEJA A SINTAXE](./SINTAXE.md)
