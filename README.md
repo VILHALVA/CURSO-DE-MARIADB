@@ -91,4 +91,6 @@ Em resumo, a escolha entre MariaDB e MySQL depende das necessidades específicas
 ## SUBSIDIOS:
 - [CURSO CRIADO PELO VILHALVA](https://github.com/VILHALVA)
 - [VEJA A DOCUMENTAÇÃO](https://mariadb.com/kb/en/documentation/)
+- [VEJA O MANUAL](./MANUAL.md)
 - [VEJA A SINTAXE](./SINTAXE.md)
+- [VEJA OS COMANDOS](./COMANDOS.md)
