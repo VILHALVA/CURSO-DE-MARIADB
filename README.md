@@ -89,7 +89,8 @@ Em resumo, a escolha entre MariaDB e MySQL depende das necessidades específicas
 4. **Dificuldades de Migração em Casos Raros:** Embora a compatibilidade geral seja alta, pode haver situações excepcionais em que a migração do MySQL para o MariaDB pode exigir esforço adicional devido a diferenças na implementação ou recursos específicos.
 
 ## SUBSIDIOS:
-- [CURSO CRIADO PELO VILHALVA](https://github.com/VILHALVA)
+- [CURSO CRIADO PELO "DFILITTO"](https://youtube.com/playlist?list=PLfvOpw8k80WqyrR7P7fMNREW2Q82xJlpO&si=emYgj1LCLfT6MJJb)
+- [CURSO FEITO PELO VILHALVA](https://github.com/VILHALVA)
 - [VEJA A DOCUMENTAÇÃO](https://mariadb.com/kb/en/documentation/)
 - [VEJA O MANUAL](./MANUAL.md)
 - [VEJA A SINTAXE](./SINTAXE.md)
