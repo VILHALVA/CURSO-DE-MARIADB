@@ -5,7 +5,6 @@ Aqui estão os passos básicos para instalar o MariaDB Server e algumas opções
 
 ## 1. Instalando o MariaDB Server:
 ### No Linux (Ubuntu como exemplo):
-
 1. Abra um terminal.
 2. Atualize os repositórios do sistema:
    ```
@@ -17,16 +16,13 @@ Aqui estão os passos básicos para instalar o MariaDB Server e algumas opções
    ```
 
 ### No Windows:
-
 1. Acesse o site oficial do MariaDB (https://mariadb.org/download/) e faça o download da versão adequada para o Windows.
 2. Execute o instalador e siga as instruções na tela para concluir a instalação.
 
 ## 2. Configurando o MariaDB:
-
 Depois de instalar o MariaDB, você precisará configurar uma senha para o usuário `root`. Para fazer isso, siga estas etapas:
 
 ### No Linux:
-
 1. No terminal, execute o seguinte comando:
    ```
    sudo mysql_secure_installation
@@ -34,15 +30,12 @@ Depois de instalar o MariaDB, você precisará configurar uma senha para o usuá
 2. Siga as instruções na tela para definir uma senha para o usuário `root` e realizar outras configurações de segurança.
 
 ### No Windows:
-
 Ao instalar o MariaDB no Windows, você deve ter definido uma senha para o usuário `root` durante o processo de instalação. Certifique-se de lembrar dessa senha.
 
 ## 3. Instalando uma Interface Gráfica (Opcional):
-
 Você pode instalar uma interface gráfica para facilitar o gerenciamento do MariaDB. Duas opções populares são o phpMyAdmin e o HeidiSQL:
 
 ### a. phpMyAdmin:
-
 O phpMyAdmin é uma ferramenta baseada na web que pode ser instalada em um servidor web. Para instalá-lo:
 
 1. Certifique-se de ter um servidor web, como o Apache, instalado em seu sistema.
