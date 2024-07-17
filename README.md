@@ -94,5 +94,4 @@ Em resumo, a escolha entre MariaDB e MySQL depende das necessidades específicas
 - [VEJA A DOCUMENTAÇÃO](https://mariadb.com/kb/en/documentation/)
 - [VEJA O MANUAL](./MANUAL.md)
 - [VEJA A SINTAXE](./SINTAXE.md)
-- [VEJA OS COMANDOS](./COMANDOS.md)
 - [VEJA OS PROJETOS](https://github.com/VILHALVA?tab=repositories&q=topic:MARIADB)
