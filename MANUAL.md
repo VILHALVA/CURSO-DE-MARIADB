@@ -1,4 +1,4 @@
-# MARIADB - MANUAL
+# MANUAL
 ## INSTALAÇÃO:
 Aqui estão os passos básicos para instalar o MariaDB em sistemas Linux (especificamente Ubuntu) e Windows:
 
