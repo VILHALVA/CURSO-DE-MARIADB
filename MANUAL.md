@@ -2,7 +2,7 @@
 ## INSTALAÇÃO:
 Aqui estão os passos básicos para instalar o MariaDB em sistemas Linux (especificamente Ubuntu) e Windows:
 
-### Ubuntu:
+### LINUX/UBUTUM:
 1. **Atualize os Repositórios**:
    Abra o terminal e execute os seguintes comandos:
    ```
@@ -28,7 +28,7 @@ Aqui estão os passos básicos para instalar o MariaDB em sistemas Linux (especi
    sudo mysql_secure_installation
    ```
 
-### Windows:
+### WINDOWS:
 1. **Baixe o Instalador**:
    Acesse o site oficial do MariaDB (https://mariadb.org/download/) e baixe o instalador para Windows.
 
@@ -65,7 +65,7 @@ Para parar o servidor MariaDB, você pode pressionar `Ctrl + C` no prompt de com
 ## E O XAMPP?
 O XAMPP é um pacote de software livre e de código aberto que facilita a criação e gerenciamento de um ambiente de desenvolvimento web local. Ele inclui várias ferramentas essenciais para o desenvolvimento web, incluindo um servidor web Apache, bancos de dados MySQL e MariaDB, PHP e Perl.
 
-### Principais componentes do XAMPP:
+### PRINCIPAIS COMPONENTES DO XAMPP:
 1. **Apache**: O servidor web Apache é amplamente utilizado para hospedar sites e aplicativos web.
 
 2. **MySQL e MariaDB**: Ambos são sistemas de gerenciamento de banco de dados relacionais. O XAMPP oferece suporte a ambos, permitindo que os usuários escolham qual banco de dados desejam usar em seu ambiente de desenvolvimento.
@@ -74,7 +74,7 @@ O XAMPP é um pacote de software livre e de código aberto que facilita a criaç
 
 4. **Perl**: Outra linguagem de script popular que é suportada pelo XAMPP.
 
-### Como instalar e usar o XAMPP:
+### COMO INSTALAR E USAR O XAMPP?
 1. **Baixe o XAMPP**: Vá para o site oficial do [XAMPP](https://www.apachefriends.org/index.html) e faça o download da versão adequada para o seu sistema operacional (Windows, Linux ou macOS).
 
 2. **Instale o XAMPP**: Execute o arquivo de instalação baixado e siga as instruções do assistente de instalação.
@@ -83,7 +83,7 @@ O XAMPP é um pacote de software livre e de código aberto que facilita a criaç
 
 4. **Acesse o PHPMyAdmin**: O XAMPP inclui o PHPMyAdmin, uma ferramenta de gerenciamento de banco de dados web para MySQL e MariaDB. Você pode acessá-lo digitando `http://localhost/phpmyadmin` em seu navegador.
 
-### Como saber qual banco de dados você está usando no XAMPP:
+### COMO SABER QUAL BANCO DE DADOS VOCÊ ESTÁ USANDO NO XAMPP?
 Por padrão, o XAMPP vem configurado para usar o MySQL. No entanto, se você preferir usar o MariaDB, pode fazer isso alterando a configuração no painel de controle do XAMPP.
 
 1. **Abra o Painel de Controle do XAMPP**: Inicie o XAMPP e abra o painel de controle.
